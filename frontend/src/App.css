@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  width: 100%;
+  /* background-color: #a534e2; */
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  background: linear-gradient(#b833ff, #3f085c, #000000)
+}
+
+.up-side {
+  width: 70%;
+  flex: 0 1 30%;
+  border: 1px solid black;
+  margin: 30px;
+}
+
+.down-side {
+  flex: 1;
+  width: 95%;
+  height: 95%;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15), 0 0 50px rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart {
+  /* position: relative; */
+  width: 95%;
+  height: 95%;
+}
+
+.disease-modal {
+  background-color: white;
+  border-radius: 50px;
+  box-shadow: 0px 0px 50px black;
+  /* justify-content: center; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+  transform: translate(30%, 0%);
+  max-width: 60%;
+}
+
+.prec-list {
+  border: 1px dotted rgba(0, 0, 0, 0.2);
+}
+
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  /* height: 90vh; */
+}
+
+.modal-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.other-stuff {
+  flex: 1 1 auto;
+  min-height: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  overflow-y: auto;
+  height: 60vh;
+}
+
+.refresh-button {
+  position: absolute;
+  top: 35px;
+  right: 50px;
+  background: transparent;
+}
