@@ -1,0 +1,257 @@
+drug_name,Disease,rx_otc,medical_condition_url,drug_link
+benzoyl peroxide,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/benzoyl-peroxide-topical.html
+Differin,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/differin.html
+adapalene,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/adapalene-topical.html
+Milk of Magnesia,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/milk-of-magnesia.html
+Phillips' Milk of Magnesia,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/phillips-milk-of-magnesia.html
+salicylic acid,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/salicylic-acid-topical.html
+Acne Treatment,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/acne-treatment.html
+Acnex,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/acnex-topical.html
+magnesium hydroxide,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/magnesium-hydroxide.html
+PanOxyl,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/panoxyl.html
+PanOxyl 10% Acne Foaming Wash,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/panoxyl-wash.html
+Acetoxyl,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/acetoxyl-10-topical.html
+Acne-10,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/acne-10-gel-topical.html
+Acnevir,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/acnevir.html
+Acnomel,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/acnomel-skin-tone-topical.html
+Acnomel Acne Mask,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/acnomel-acne-mask-topical.html
+Acnomel BP 5,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/acnomel-bp-5-topical.html
+Akurza,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/akurza-topical.html
+Aliclen,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/aliclen-topical.html
+Alquam-X Acne Therapy Gel,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/alquam-x-acne-therapy-gel-topical.html
+Benzac,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/benzac-topical.html
+Benzac AC Wash,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/benzac-ac-wash.html
+Benzac W,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/benzac-w-wash.html
+Binora,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/binora-topical.html
+BPO 6 Foaming Cloths,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/pro/bpo-6-foaming-cloths.html
+BPO Gel,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/bpo-4-gel-topical.html
+BP Wash,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/bp-wash.html
+CeraVe SA Renewing,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/cerave-sa-renewing.html
+Compound W,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/compound-w.html
+DermalZone,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/dermalzone.html
+DHS Salicylic Acid 3%,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/dhs-sal-topical.html
+Dulcolax Milk of Magnesia,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/dulcolax-milk-of-magnesia.html
+Durasal,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/durasal-topical.html
+Ex-Lax Milk of Magnesia,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/ex-lax-milk-of-magnesia.html
+Fostex,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/fostex.html
+Fostex Medicated,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/fostex-medicated.html
+Fostex Medicated Cleansing Cream,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/fostex-cream-topical.html
+Fostex Wash 10%,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/fostex-wash-10.html
+Hydrisalic,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/hydrisalic-topical.html
+Liquimat Light,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/liquimat-light.html
+Liquimat Medium,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/liquimat-medium.html
+Meted,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/meted.html
+Neutrogena Clear Pore Cleanser/Mask,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/neutrogena-clear-pore.html
+Neutrogena Rapid Clear Stubborn Acne,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/neutrogena-acne-mask.html
+Oxy-10,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/oxy-10.html
+Oxy Daily Wash,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/oxy-daily-wash.html
+P & S,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/p-s-topical.html
+PanOxyl 4% Acne Creamy Wash,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/panoxyl-4-creamy-wash.html
+Pernox,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/pernox.html
+Persa-Gel,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/persa-gel.html
+Propa pH Acne Med Cleansing,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/propa-ph-acne-med-cleansing.html
+R A Acne,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/r-a-acne-topical.html
+Resinol,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/resinol-topical.html
+resorcinol / sulfur,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/resorcinol-and-sulfur-topical.html
+resorcinol,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/resorcinol-topical.html
+Riax,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/riax.html
+Sal-Plant Gel,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/sal-plant-gel-topical.html
+Salactic Film,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/salactic-film-topical.html
+Salex,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/salex.html
+salicylic acid/sulfur,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/salicylic-acid-and-sulfur-topical.html
+Salvax,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/salvax-topical.html
+SAStid,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cons/sastid-topical.html
+Scalpicin Scalp Relief,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/scalpicin-scalp-relief.html
+Sebulex,Acne,OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/sebulex.html
+Stri-Dex,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/stri-dex.html
+Stridex Body Focus,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/stridex-body-focus.html
+Stridex Maximum Strength,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/stridex-maximum-strength.html
+Sulfoam,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/sulfoam.html
+sulfur,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/sulfur-topical.html
+Sulpho-Lac Soap,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/mtm/sulpho-lac-soap.html
+Tinamed Plantar,Acne,Rx/OTC,https://www.drugs.com/condition/acne.html,https://www.drugs.com/cdi/tinamed-plantar.html
+levocetirizine,Allergy,Rx/OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/levocetirizine.html
+loratadine,Allergy,Rx/OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/loratadine.html
+doxylamine,Allergy,Rx/OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/mtm/doxylamine.html
+chlorpheniramine / ibuprofen / phenylephrine,Allergy,OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/cons/chlorpheniramine-ibuprofen-and-phenylephrine.html
+dexbrompheniramine,Allergy,OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/mtm/dexbrompheniramine.html
+Ala-Hist IR,Allergy,OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/mtm/ala-hist-ir.html
+dexbrompheniramine / phenylephrine,Allergy,OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/mtm/dexbrompheniramine-and-phenylephrine.html
+Equaline Sleep Aid,Allergy,Rx/OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/pro/equaline-sleep-aid.html
+Equate Sleep Aid,Allergy,Rx/OTC,https://www.drugs.com/condition/allergies.html,https://www.drugs.com/pro/equate-sleep-aid.html
+omeprazole,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/omeprazole.html
+famotidine,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/famotidine.html
+Prilosec OTC,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/prilosec-otc.html
+esomeprazole,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/esomeprazole.html
+lansoprazole,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/lansoprazole.html
+Pepcid AC,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cons/pepcid-ac.html
+Nexium 24HR,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/nexium-24hr-esomeprazole-delayed-release-tablets.html
+Acid Controller Maximum Strength,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/pro/berkley-and-jensen-acid-controller-maximum-strength.html
+Acid Controller Original Strength,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/pro/acid-controller-original-strength.html
+Acid Reducer Maximum Strength,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/pro/topcare-acid-reducer.html
+cimetidine,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/cimetidine.html
+Heartburn Relief,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cons/heartburn-relief.html
+Heartburn Relief Maximum Strength,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/pro/major-heartburn-relief-maximum-strength.html
+omeprazole / sodium bicarbonate,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/omeprazole-and-sodium-bicarbonate.html
+Pepcid AC Chewable Tablets,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/pepcid-ac-chewable-tablets.html
+Mylanta,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/mylanta.html
+calcium carbonate,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/calcium-carbonate.html
+magnesium oxide,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/magnesium-oxide.html
+nizatidine,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/nizatidine.html
+aluminum hydroxide / magnesium hydroxide / simethicone,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/aluminum-hydroxide-magnesium-hydroxide-and-simethicone.html
+Calci-Chew,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/calci-chew.html
+Mag-Oxide,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/mag-oxide.html
+Pepcid Complete,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/pepcid-complete.html
+Phillips' Cramp-free,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/phillips-cramp-free.html
+Prevacid OTC,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/prevacid-otc.html
+Tagamet HB,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/tagamet-hb.html
+Titralac,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/titralac.html
+Tums Regular Strength,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/tums.html
+Tums Smoothies,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/tums-smoothies.html
+Uro-Mag,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/uro-mag.html
+Zegerid OTC,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/zegerid-otc.html
+Alamag,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/alamag-aluminum-hydroxide-and-magnesium-hydroxide-chewable-tablets.html
+Alka-Seltzer Heartburn + Gas,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/alka-seltzer-heartburn-gas.html
+Almacone,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/almacone.html
+aluminum hydroxide / magnesium carbonate,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/aluminum-hydroxide-and-magnesium-carbonate.html
+aluminum hydroxide / magnesium hydroxide,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/aluminum-hydroxide-and-magnesium-hydroxide-chewable-tablets.html
+aluminum hydroxide,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/aluminum-hydroxide.html
+Amphojel,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/amphojel.html
+Axid AR,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/axid.html
+calcium carbonate / famotidine / magnesium hydroxide,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/calcium-carbonate-famotidine-and-magnesium-hydroxide.html
+calcium carbonate / magnesium hydroxide / simethicone,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/calcium-carbonate-magnesium-hydroxide-and-simethicone.html
+calcium carbonate / simethicone,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/calcium-carbonate-and-simethicone.html
+Di-Gel,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/di-gel-liquid.html
+Dual Action Complete,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/dual-action-complete.html
+Duo Fusion,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/duo-fusion.html
+Gas-X with Maalox Extra Strength,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/gas-x-with-maalox-extra-strength.html
+Gelusil,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/gelusil.html
+Mi-Acid,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/mi-acid.html
+Milantex,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/milantex.html
+Mintox,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/mintox.html
+Mintox Plus,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/mintox-plus.html
+Mylanta Coat & Cool,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/mylanta-coat-cool.html
+Mylanta Maximum Strength,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/mylanta-maximum-strength.html
+Mylanta Tonight,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/mylanta-tonight.html
+Rulox,GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/mtm/rulox.html
+sodium citrate,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/pro/sodium-citrate-anticoagulant-solution.html
+Tricitrasol,GERD,Rx/OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/pro/tricitrasol.html
+Tums Chewy Bites with Gas Relief (Lemon & Strawberry),GERD,OTC,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/cdi/tums-gas-relief-chewy-bites.html
+Zegerid with Magnesium Hydroxide,GERD,,https://www.drugs.com/condition/gastroesophageal-reflux-disease.html,https://www.drugs.com/zegerid_magnesium.html
+Excedrin Migraine,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/excedrin-migraine.html
+Excedrin,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/excedrin.html
+acetaminophen / aspirin / caffeine,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/mtm/acetaminophen-aspirin-and-caffeine.html
+acetaminophen / aspirin / caffeine / salicylamide,Migraine,Rx/OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/cdi/acetaminophen-aspirin-caffeine-and-salicylamide-tablets.html
+Painaid,Migraine,Rx/OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/cdi/painaid.html
+prochlorperazine,Migraine,Rx/OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/mtm/prochlorperazine-oral-injection.html
+Vanquish,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/cdi/vanquish.html
+Anacin Advanced Headache Formula,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/mtm/anacin-advanced-headache-formula.html
+Backaid Inflammatory Pain Formula,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/mtm/backaid-ipf.html
+Genace,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/genace.html
+Goody's Extra-Strength Headache Powders,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/cdi/goody-s-extra-strength-headache-powders.html
+Goody's Extra Strength,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/mtm/goodys-extra-strength.html
+Goody's Headache Powders,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/mtm/goody-s-headache-powders.html
+Migraine Relief,Migraine,OTC,https://www.drugs.com/condition/migraine.html,https://www.drugs.com/pro/up-and-up-migraine-relief.html
+hydrocortisone,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/hydrocortisone-rectal-cream-suppository.html
+fluocinolone,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/fluocinolone-topical.html
+coal tar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/coal-tar-topical.html
+Cortizone-10,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/cortizone-10.html
+Aquanil HC,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/aquanil-hc.html
+Beta HC,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/beta-hc.html
+Caldecort,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/caldecort.html
+Cortizone-5,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/cortizone-5.html
+Derma-Smoothe / FS (Scalp),Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/derma-smoothe-fs-scalp.html
+Dermarest Plus Anti-Itch,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/dermarest-plus-anti-itch.html
+Dermtex HC,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/dermtex-hc.html
+Psoriasin,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/psoriasin.html
+Sarnol-HC,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/sarnol-hc.html
+Synalar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/synalar.html
+U-Cort,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/u-cort.html
+ammonium lactate/urea,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/ammonium-lactate-and-urea-topical.html
+Balnetar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/balnetar.html
+Betatar Gel,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/betatar-gel-topical.html
+Capex,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/capex.html
+Carb-O-Lac5,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/carb-o-lac5-topical.html
+Carb-O-Lac HP,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/carb-o-lac-hp-topical.html
+coal tar/salicylic acid/sulfur,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/salicylic-acid-sulfur-and-coal-tar-topical.html
+coal tar/salicylic acid,Psoriasis,OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cdi/coal-tar-and-salicylic-acid.html
+Cutar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/cutar-emulsion-topical.html
+Derma-Smoothe / FS,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/derma-smoothe-fs.html
+Derma-Smoothe / FS (Body Oil),Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/derma-smoothe-fs-body-oil.html
+DHS Tar Shampoo,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/dhs-tar-shampoo.html
+Doak Tar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/doak-tar-topical.html
+Elta Tar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/elta-tar.html
+Estar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/estar-topical.html
+Fototar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/fototar-topical.html
+Ionil T,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/ionil-t.html
+Kerasal Ultra 20,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cdi/kerasal-ultra-20.html
+Medotar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/medotar-topical.html
+MG217 Medicated Tar,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/mg217-medicated-tar.html
+Neutrogena T/Derm,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/cons/neutrogena-t-derm-topical.html
+Neutrogena T/Gel,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/neutrogena-t-gel.html
+Oxipor VHC,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/oxipor-vhc.html
+R A Acne,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/r-a-acne-topical.html
+Resinol,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/resinol-topical.html
+resorcinol,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/resorcinol-topical.html
+Scytera,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/scytera.html
+Synalar Ointment,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/pro/synalar-ointment.html
+Tarsum,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/tarsum.html
+Theraplex T,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/theraplex-t.html
+Ultralytic,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/ultralytic-topical.html
+Ultralytic 2,Psoriasis,Rx/OTC,https://www.drugs.com/condition/psoriasis.html,https://www.drugs.com/mtm/ultralytic-2-topical.html
+naproxen,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/naproxen.html
+ibuprofen,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/ibuprofen.html
+aspirin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/aspirin.html
+Aleve,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/aleve.html
+Arthritis Pain,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/arthritis-pain.html
+Aspergum,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/aspergum.html
+Aspiritab,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cdi/aspiritab.html
+Aspirtab,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/aspirtab.html
+Bayer Aspirin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/bayer-oral.html
+Bayer Aspirin Extra Strength Plus,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/bayer-plus.html
+Ecotrin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/ecotrin.html
+Ecpirin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/ecpirin.html
+Entercote,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/entercote.html
+Genacote,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/genacote.html
+Halfprin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/halfprin.html
+Norwich Aspirin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/norwich-aspirin.html
+Vazalore,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/vazalore.html
+Advil,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/advil.html
+Motrin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/motrin.html
+Naprosyn,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/naprosyn.html
+Proprinal,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/proprinal.html
+A-G Profen,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/a-g-profen.html
+Actiprofen,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/actiprofen.html
+Addaprin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/addaprin.html
+Genpril,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/genpril.html
+IBU-200,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/ibu-200.html
+Midol IB,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/midol-ib.html
+Motrin IB,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/motrin.html
+Nuprin,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/nuprin.html
+Aflaxen,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/aflaxen.html
+All Day Pain Relief,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/pro/all-day-pain-relief.html
+All Day Relief,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/pro/all-day-relief.html
+Anaprox,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/anaprox.html
+Anaprox-DS,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/anaprox-ds.html
+EC-Naprosyn,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/ec-naprosyn.html
+Flanax Pain Reliever,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/flanax.html
+Naprelan,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cons/naprelan.html
+ketoprofen,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/ketoprofen.html
+acetaminophen / aspirin,Arthritis,OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cdi/acetaminophen-and-aspirin-buffered.html
+Arthricream,Arthritis,OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cdi/arthricream.html
+Asper-Flex,Arthritis,OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cdi/asper-flex.html
+Boroleum,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/boroleum.html
+camphor / menthol / methyl salicylate,Arthritis,OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/camphor-menthol-and-methyl-salicylate-topical.html
+Castiva Cooling,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/castiva-cooling.html
+Eucalyptamint,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/eucalyptamint.html
+Exocaine Plus,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/exocaine-plus.html
+Gordogesic,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/gordogesic.html
+Heet Triple Action,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/heet-triple-action.html
+Mentholatum Deep Heating,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/mentholatum-deep-heating.html
+methyl salicylate,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/methyl-salicylate-topical.html
+Myoflex,Arthritis,OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cdi/myoflex.html
+Salonpas Pain Patch,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/salonpas-pain-patch.html
+Satogesic,Arthritis,Rx/OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/mtm/satogesic.html
+trolamine salicylate,Arthritis,OTC,https://www.drugs.com/condition/rheumatoid-arthritis.html,https://www.drugs.com/cdi/trolamine-cream-and-lotion.html
+methenamine,UTI,Rx/OTC,https://www.drugs.com/condition/urinary-tract-infection.html,https://www.drugs.com/mtm/methenamine.html
+Hiprex,UTI,Rx/OTC,https://www.drugs.com/condition/urinary-tract-infection.html,https://www.drugs.com/mtm/hiprex.html
